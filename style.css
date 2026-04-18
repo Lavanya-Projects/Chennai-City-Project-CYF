@@ -1,0 +1,28 @@
+h1{
+width:100%;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+color: #ffffff;
+font-size: xx-large;
+background-color: #008080;
+}
+.content{
+  padding: 30px;
+  text-align: justify;
+  font-size: medium;
+}
+.center-image {
+    text-align: center;
+}
+h2{
+  color:#004b49;
+}
+footer{
+width:100%;  
+margin:0;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #008080;
+}
